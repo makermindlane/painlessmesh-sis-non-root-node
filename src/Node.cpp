@@ -1,5 +1,4 @@
 #include <painlessMesh.h>
-// #include "stdio.h"
 
 #define MESH_PREFIX "MeshSSID"
 #define MESH_PASSWORD "MeshPass"
