@@ -1,12 +1,3 @@
-//************************************************************
-// this is a simple example that uses the painlessMesh library
-//
-// 1. sends a silly message to every node on the mesh at a random time between 1
-// and 5 seconds
-// 2. prints anything it receives to Serial.print
-//
-//
-//************************************************************
 #include <painlessMesh.h>
 // #include "stdio.h"
 
@@ -14,7 +5,7 @@
 #define MESH_PASSWORD "MeshPass"
 #define MESH_PORT 5555
 
-#define _LCL_DEBUG_
+//#define _LCL_DEBUG_
 
 // Variables
 painlessMesh mesh;
